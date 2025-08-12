@@ -39,7 +39,7 @@ Embora os arquivos intermediários e originais não estejam neste repositório, 
 
 ## 💡 Principais Insights
 
-- Overview das informações de montante recebido, quantidade de NFs, entregas no prazo x em atraso com detalhe por fornecedor e período;
+- Overview das informações de recebimentos, entregas no prazo x em atraso com detalhe por fornecedor e período;
 - Montante recebido por mês;
 - Share dos estados com maior movimentação e mapa de calor dos principais centros e empreiteiras;
 
