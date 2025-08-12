@@ -2,7 +2,7 @@
 
 # 📊 Relatório de entregas e performance de fornecedores - Power BI
 
-Este projeto apresenta um dashboard em Power BI com foco resumo dos recebimentos de materiais dentro do ano, dentro de uma multinacional de telecomunicações.  
+Este projeto apresenta um dashboard em Power BI com foco resumo dos recebimentos de materiais no ano, em uma multinacional de telecomunicações.  
 Os dados e nomes utilizados foram alterados, mas simulam um cenário real de gestão de performance adotado naquele período.
 
 ## 🧩 Sobre o Projeto
