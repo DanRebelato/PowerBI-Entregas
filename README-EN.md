@@ -9,8 +9,6 @@ The goal of this report is to provide a consolidated view of total deliveries, e
 
 ## 🧩 About the Data
 
-> ⚠️ Due to confidentiality reasons, the original data used in this project is not available for consultation or sharing.
-
 The Excel-based data used in this dashboard was generated through a full ETL (Extract, Transform, Load) process, including:
 
 - Raw data extraction via SAP, from different modules and operational reports;  
