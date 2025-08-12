@@ -37,8 +37,7 @@ Although intermediate and original files are not in this repository, the current
 
 ## 💡 Key Insights
 
-- Overview of total received amounts, number of invoices, on-time vs late deliveries, detailed by supplier and time period;  
-- Received amount by month;  
+- Overview of total received amounts, invoices, on-time vs late deliveries, detailed by supplier and time period;  
 - State share by volume and heat map of top operational centers and contractors;
 
 ## 📂 PBIX File
