@@ -29,7 +29,7 @@ Although intermediate and original files are not in this repository, the current
 
 ## 📸 Screenshots
 
-![Main Dashboard]([images/dashboard_principal.png)](https://github.com/DanRebelato/PowerBI-Entregas/blob/main/Documentacao/Entregas_2023.png)
+![Main Dashboard](https://github.com/DanRebelato/PowerBI-Entregas/blob/main/Documentacao/Entregas_2023.png)
 
 ## 📁 Data Structure
 
