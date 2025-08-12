@@ -29,13 +29,11 @@ Although intermediate and original files are not in this repository, the current
 
 ## 📸 Screenshots
 
-*Add high-resolution screenshots of your dashboard here. Example:*
-
-![Main Dashboard](images/dashboard_principal.png)
+![Main Dashboard]([images/dashboard_principal.png)](https://github.com/DanRebelato/PowerBI-Entregas/blob/main/Documentacao/Entregas_2023.png)
 
 ## 📁 Data Structure
 
-- `Simulado 2023.xlsx`: simulated data of deliveries by segment
+- [Entregas 2023(.xlsx)](https://github.com/DanRebelato/PowerBI-Entregas/raw/refs/heads/main/Documentacao/Base%20Entregas.xlsx)
 
 ## 💡 Key Insights
 
@@ -49,7 +47,7 @@ Although intermediate and original files are not in this repository, the current
 
 ## 📬 Contact
 
-- [Your Name / GitHub Profile]  
-- Email: dnl.rebelato@exemplo.com  
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Danilo Rebelato 
+- Email: dnl.rebelato@yahoo.com
+- LinkedIn: www.linkedin.com/in/danilorebelato
 
